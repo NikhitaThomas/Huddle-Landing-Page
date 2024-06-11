@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="pt-12">
         <img
           className="mt-12 pt-12 size-5/12 pb-8 md:size-3/12 md:px-8"
-          src="../../public/images/logo2.svg"
+          src="../../images/logo2.svg"
           alt="logo"
         />
       </div>
@@ -15,10 +15,7 @@ export default function Footer() {
         <div className="flex flex-col gap-4 md:basis-2/5">
           <div className="flex flex-row">
             <div className="basis-1/5">
-              <img
-                src="../../public/images/icon-location.svg"
-                alt="location-icon"
-              />
+              <img src="../../images/icon-location.svg" alt="location-icon" />
             </div>
             <div className="basis-4/5">
               <p>
@@ -29,7 +26,7 @@ export default function Footer() {
           </div>
           <div className="flex flex-row">
             <div className="basis-1/5">
-              <img src="../../public/images/icon-phone.svg" alt="phone-icon" />
+              <img src="../../images/icon-phone.svg" alt="phone-icon" />
             </div>
             <div className="basis-4/5">
               <p>+1-543-123-4567</p>
@@ -37,7 +34,7 @@ export default function Footer() {
           </div>
           <div className="flex flex-row">
             <div className="basis-1/5">
-              <img src="../../public/images/icon-email.svg" alt="email-icon" />
+              <img src="../../images/icon-email.svg" alt="email-icon" />
             </div>
             <div className="basis-3/4">
               <p>huddle@gmail.com</p>

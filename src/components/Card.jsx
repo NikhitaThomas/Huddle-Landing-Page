@@ -13,7 +13,7 @@ export default function Card({ index, title, body, img }) {
       >
         <img
           className="w-7/12 m-auto"
-          src={`../../public/images/${img}.svg`}
+          src={`../../images/${img}.svg`}
           alt={title}
         />
       </div>

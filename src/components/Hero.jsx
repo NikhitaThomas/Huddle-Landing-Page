@@ -22,7 +22,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="px-10 md:px-0 md:basis-2/4 py-5">
-          <img src="../../public/images/illustration-mockups.svg" />
+          <img src="../../images/illustration-mockups.svg" />
         </div>
       </div>
     </div>
